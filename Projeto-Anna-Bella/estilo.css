@@ -1,0 +1,39 @@
+/*
+Cores a serem utilizadas
+Conteúdo: #c5c5b2
+Link: #4b566a
+H1: #828271
+*/
+
+body {
+  background: #d2d2c1 url('img/fundo.png');
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#principal {
+  width: 900px;
+}
+
+#menu {
+  background: #c5c5b2;
+  padding: 20px;
+}
+
+#conteudo {
+  background: #e8e9d9;
+  padding: 10px;
+}
+
+#rodape {
+  text-align: center;
+}
+
+a {
+  color: #4d566a;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+h1 {
+  color: #828271;
+}
